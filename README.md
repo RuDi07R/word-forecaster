@@ -4,4 +4,4 @@ In this repository there is a source code as well as a dataset on the program pr
 
 If the word is not present in the dataset it might return a error. Currently the program run on a limited dataset. The individual might increase the length of the dataset to boost the accuracy of the program.
 
-Code by: Shashwat Jain
+Code by: Rudraksh Bhardwaj
